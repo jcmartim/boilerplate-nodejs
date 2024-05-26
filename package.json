@@ -1,5 +1,5 @@
 {
-  "name": "002-configuracoes",
+  "name": "boilerplate-nodejs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
